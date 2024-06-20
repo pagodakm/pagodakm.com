@@ -1,0 +1,12 @@
+#page_content {
+  display: grid;
+  place-items: center;
+  min-height: 80vh;
+  font-family: Raleway;
+}
+
+/* Colors from this palette: https://paletton.com/#uid=53+0W0kn3Auf-OijCHsqCvAtXr7 */
+
+.blue { color: #4a4ac0; }
+.purple { color: #b133b5; }
+.green { color: #34bb85; }

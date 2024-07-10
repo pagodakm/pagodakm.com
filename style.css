@@ -1,8 +1,12 @@
+:root {
+  --bulma-family-primary: Raleway;
+  --bulma-primary: #4a4ac0;
+}
+
 #page_content {
   display: grid;
   place-items: center;
   min-height: 80vh;
-  font-family: Raleway;
 }
 
 /* Colors from this palette: https://paletton.com/#uid=53+0W0kn3Auf-OijCHsqCvAtXr7 */
